@@ -1,3 +1,5 @@
+*Github note: This was made on and for obsidian .md MathJax, so the equations may be weird.*
+
 Inherent things that need to be solved with AI:
 
 Over-fitting and imprecision of neural networks is a problem. 
