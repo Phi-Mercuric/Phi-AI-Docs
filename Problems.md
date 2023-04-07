@@ -1,4 +1,5 @@
-*Github note: This was made on and for obsidian .md MathJax, so the equations may be weird.*
+*Note: This is __heavily__ WIP, and this was made on and for obsidian .md MathJax, so the equations may be weird.*
+
 
 Inherent things that need to be solved with AI:
 
